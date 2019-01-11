@@ -1,0 +1,11 @@
+E:\CSharpCode\bin\Debug\netcoreapp2.1\CSharpCode.deps.json
+E:\CSharpCode\bin\Debug\netcoreapp2.1\CSharpCode.runtimeconfig.json
+E:\CSharpCode\bin\Debug\netcoreapp2.1\CSharpCode.runtimeconfig.dev.json
+E:\CSharpCode\bin\Debug\netcoreapp2.1\CSharpCode.dll
+E:\CSharpCode\bin\Debug\netcoreapp2.1\CSharpCode.pdb
+E:\CSharpCode\obj\Debug\netcoreapp2.1\CSharpCode.csprojAssemblyReference.cache
+E:\CSharpCode\obj\Debug\netcoreapp2.1\CSharpCode.csproj.CoreCompileInputs.cache
+E:\CSharpCode\obj\Debug\netcoreapp2.1\CSharpCode.AssemblyInfoInputs.cache
+E:\CSharpCode\obj\Debug\netcoreapp2.1\CSharpCode.AssemblyInfo.cs
+E:\CSharpCode\obj\Debug\netcoreapp2.1\CSharpCode.dll
+E:\CSharpCode\obj\Debug\netcoreapp2.1\CSharpCode.pdb
